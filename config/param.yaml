@@ -1,0 +1,17 @@
+qp_solver:
+  # minimize (1/2)*(X^T)*Q*X + (c^T)*x
+  # subject to AX >= b , >= can be changed to <= or = in qp_solver.py
+  ros__parameters:
+    Q_flat: [4.0, 1.0, 1.0, 2.0]
+    Q_dim: 2
+
+    c: [1.0, 1.0]
+    
+    A_flat: [1.0, 0.0, 0.0, 1.0]  
+    A_rows: 2
+    A_cols: 2
+
+    b: [1.0, 1.0]                
+    
+    print_solution: true
+

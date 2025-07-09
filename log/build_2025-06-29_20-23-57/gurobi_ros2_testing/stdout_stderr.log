@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing gurobi_ros2_testing.egg-info/PKG-INFO
+writing dependency_links to gurobi_ros2_testing.egg-info/dependency_links.txt
+writing entry points to gurobi_ros2_testing.egg-info/entry_points.txt
+writing requirements to gurobi_ros2_testing.egg-info/requires.txt
+writing top-level names to gurobi_ros2_testing.egg-info/top_level.txt
+reading manifest file 'gurobi_ros2_testing.egg-info/SOURCES.txt'
+writing manifest file 'gurobi_ros2_testing.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/monkorusan/ros2_ws/src/gurobi_ros2_testing/install/gurobi_ros2_testing/lib/python3.10/site-packages/gurobi-ros2-testing.egg-link (link to .)
+Installing qp_solver script to /home/monkorusan/ros2_ws/src/gurobi_ros2_testing/install/gurobi_ros2_testing/lib/gurobi_ros2_testing
+
+Installed /home/monkorusan/ros2_ws/src/gurobi_ros2_testing/build/gurobi_ros2_testing
+running symlink_data
