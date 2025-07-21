@@ -1,9 +1,0 @@
-source;share/gurobi_ros2_testing/hook/pythonpath.ps1
-source;share/gurobi_ros2_testing/hook/pythonpath.dsv
-source;share/gurobi_ros2_testing/hook/pythonpath.sh
-source;share/gurobi_ros2_testing/hook/ament_prefix_path.ps1
-source;share/gurobi_ros2_testing/hook/ament_prefix_path.dsv
-source;share/gurobi_ros2_testing/hook/ament_prefix_path.sh
-source;../../build/gurobi_ros2_testing/share/gurobi_ros2_testing/hook/pythonpath_develop.ps1
-source;../../build/gurobi_ros2_testing/share/gurobi_ros2_testing/hook/pythonpath_develop.dsv
-source;../../build/gurobi_ros2_testing/share/gurobi_ros2_testing/hook/pythonpath_develop.sh
