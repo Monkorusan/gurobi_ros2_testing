@@ -1,3 +1,0 @@
-[console_scripts]
-qp_solver = gurobi_ros2_testing.qp_solver:main
-
